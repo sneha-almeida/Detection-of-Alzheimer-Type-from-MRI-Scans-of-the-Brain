@@ -1,1 +1,1 @@
-# Detection-of-Alzheimer-Type-from-MRI-Scans-of-the-Brain
+# Detection of Alzheimer Type from MRI Scans of the Brain
