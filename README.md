@@ -20,11 +20,5 @@ Here are some screenshots of the implemented system:
 
 
 
-![](https://github.com/sneha-almeida/Detection-of-Alzheimer-Type-from-MRI-Scans-of-the-Brain/blob/main/ss-4.PNG)
-
-
-
-
-
 ![](https://github.com/sneha-almeida/Detection-of-Alzheimer-Type-from-MRI-Scans-of-the-Brain/blob/main/ss-5.PNG)
 
